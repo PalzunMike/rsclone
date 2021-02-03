@@ -27,3 +27,25 @@
    padding: 15px 30px;
    cursor: pointer;
 }
+
+footer {
+    position: absolute;    
+    width: 60%;
+    min-width: 350px;
+    margin: 0 15%;
+    bottom: 0;        
+    height: 6vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Rsschool img {
+    height: 4vh;
+}
+.github {
+    color: #b6b6b6;
+}
+.github a {
+    text-decoration: none;
+    color: #b6b6b6;
+}
